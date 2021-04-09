@@ -52,6 +52,8 @@ public class Main {
             arS2[i] = arB[i+5];
             System.out.print(arS2[i] + "\t");
             System.out.print(arS2[i] + "\t");
+            System.out.print(arS2[i] + "\t");
+            System.out.print(arS2[i] + "\t");
         }
 
     }
