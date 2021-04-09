@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class elif {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Enter some number:");
+        System.out.println("Enter some NUmber:");
         int num1 = Integer.parseInt(reader.readLine());
         int num2 = Integer.parseInt(reader.readLine());
         closeToFive(num1,num2);
