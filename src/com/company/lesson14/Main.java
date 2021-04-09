@@ -45,6 +45,8 @@ public class Main {
         for (int i = 0; i < arS1.length; i++) {
             arS1[i] = arB[i];
             System.out.print(arS1[i] + "\t");
+            System.out.print(arS1[i] + "\t");
+            System.out.print(arS1[i] + "\t");
         }
 
         System.out.print("\nSecond small massive: ");
