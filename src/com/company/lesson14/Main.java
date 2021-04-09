@@ -51,6 +51,7 @@ public class Main {
         for (int i = 0; i < arS2.length; i++){
             arS2[i] = arB[i+5];
             System.out.print(arS2[i] + "\t");
+            System.out.print(arS2[i] + "\t");
         }
 
     }
