@@ -1,4 +1,4 @@
-package com.company.lesson10;
+package com.company.part1.lesson10;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package com.company.lesson02;
+package com.company.part1.lesson02;
 
-import com.company.lesson01.Main;
+import com.company.part1.lesson01.Main;
 
 public class Work {
     public static void main(String[] args) {

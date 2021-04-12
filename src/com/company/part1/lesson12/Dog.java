@@ -1,10 +1,10 @@
-package com.company.lesson12;
+package com.company.part1.lesson12;
 
-public class Cat {
+public class Dog {
     private String name;
     private int age;
     private String owner;
-    public Cat(String name,int age,String owner){
+    public Dog(String name,int age,String owner){
         this.name=name;
         this.owner=owner;
         this.age=age;

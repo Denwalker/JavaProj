@@ -1,4 +1,4 @@
-package com.company.lesson12;
+package com.company.part1.lesson12;
 
 public class Robot {
     private String name;

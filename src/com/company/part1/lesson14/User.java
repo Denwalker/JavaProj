@@ -1,4 +1,4 @@
-package com.company.lesson14;
+package com.company.part1.lesson14;
 
 public class User {
     private String name;

@@ -1,4 +1,4 @@
-package com.company.lesson02;
+package com.company.part1.lesson02;
 
 public class User {
     private int age;

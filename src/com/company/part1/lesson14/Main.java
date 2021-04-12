@@ -1,6 +1,4 @@
-package com.company.lesson14;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.part1.lesson14;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -44,8 +42,6 @@ public class Main {
         System.out.print("First small massive: ");
         for (int i = 0; i < arS1.length; i++) {
             arS1[i] = arB[i];
-            System.out.print(arS1[i] + "\t");
-            System.out.print(arS1[i] + "\t");
             System.out.print(arS1[i] + "\t");
         }
 
